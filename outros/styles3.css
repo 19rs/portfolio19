@@ -1,0 +1,31 @@
+/* Estilo para o header principal */
+.main-header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo para o rodapé principal */
+.main-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilo para o header secundário */
+.secondary-header {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Estilo para o rodapé secundário */
+.secondary-footer {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 5px;
+    text-align: center;
+}

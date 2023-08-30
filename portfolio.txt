@@ -1,0 +1,42 @@
+Simples, direto e esforçado
+
+IA pode fazer o meu trabalho muito melhor e mais rápido
+
+home
+sobre mim
+projetos
+educação - pôr fotos
+exp prof
+contato - com mensagem por whats
+trabalhe comigo/ vamos trabalhar junto
+
+habilidades / skills? ferramentas/linguagens que conhecimento 
+
+
+Home
+bem vindo ao meu site, criado para exercicio de fixação html e css do curso técnico 
+desenv sis senac.
+
+sobre mim
+Douglas, 36 anos nascido e criado em sao leo. simples, direto e esforçado. e sincero nao tenho muita criatividade. nao termino os projetos
+
+educação
+sao luis
+fred
+sao luis
+senac 3000 talentos
+senac
+
+exp profissional
+prefa
+cooperei
+
+
+projetos
+jogo
+mvp desaparecidos
+
+
+
+cooperei
+fiz o site em html 4 ainda, conseguia ser feio e bonito ao mesmo tempo, exótico digamos. fiz on the fly, a cor de fundo era um azul-marinho-roxo, os botões do menu eram a barra do windows xp, foi construído todo usando tabelas e tinha até MARQUEE (saudades)
