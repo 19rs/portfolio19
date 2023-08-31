@@ -9,6 +9,7 @@ body {
     padding: 0px;
 }
 
+
 /* Cabeçalho - Menu */
 header {
     background-color: #171819;
@@ -54,7 +55,8 @@ ul li a:active, .link-ativo {
     border-radius: 15px 0px 0px 0px;
 }
 
-/* Conteúdo Principal */
+
+/* Conteúdo Principal das Páginas*/
 main {
     margin-top: 100px;
     padding-top: 10vh;
@@ -63,7 +65,6 @@ main {
 }
 
 main h1 {
-
     border-bottom-style: dashed;
     display: inline;
 }
@@ -78,6 +79,7 @@ main p {
     font-weight: 500;
 }
 
+
 /* Sobre Mim */
 details img:not(#feno) {
     width: 5vw;
@@ -87,7 +89,6 @@ details img:not(#feno) {
 section details:last-child summary {
     margin-bottom: 2vh;
 }
-
 
 
 /* Projetos */
@@ -101,10 +102,8 @@ section details:last-child summary {
     margin-left: 2vw;
     margin-right: 2vw;
     width: 40%;
-    /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);*/
     border: 1px dashed gray;
     transition: 0.3s;
-    /*border-radius: 5px;*/
     text-align: center;
     display: inline-block;
 }
@@ -128,19 +127,52 @@ section details:last-child summary {
 }
 
 .card-projeto:hover {
-    /*background-color: rgba(212, 212, 212, 0.726);*/
-    /*border-radius: 20px;*/
     border-style: solid;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
+.testes {
+    border-bottom-style: dotted;
+    text-decoration: none;
+    color: #171819;
+    margin-right: 2vw;
+}
 
-/* Foto */
-#foto {
-    border: 1px solid gray;
-    float: right;
-    border-radius: 50%;
-    width: 15vh;
-    height: 15vh;
-    object-fit: cover;
+.prints {
+    width: 40vw;
+}
+
+.detalhes {
+    line-height: 1.6;
+}
+
+button {
+    padding: 1vw;
+}
+
+form {
+    margin: auto;
+    margin-top: 5vh;
+    width: 80%;
+    /*border: 1px solid;*/
+    padding: 1vw;
+    text-align: left;
+}
+
+input {
+    margin-top: 1vh;
+    margin-bottom: 3vh;
+    width: 50%; 
+    height: 4vh;
+}
+
+textarea {
+    margin-bottom: 1vh;
+    padding-top: 5px;
+}
+
+.escolas_empresas {
+    margin: 3vh 0 5vh 0;
+    width: 50%;
+    display: block;
 }
